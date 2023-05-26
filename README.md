@@ -32,9 +32,8 @@
   <br/>
 
 
-<img src="https://img.shields.io/badge/notion-455a64?style=flat-square&logo=notion&logoColor=white&?logoWidth=40"/> [HI's Notion]  <br>
-<https://www.notion.so/PM-93bab4a22fc6437a96b7339216a22cac>
-[Google](https://google.com, "google link")
+<img src="https://img.shields.io/badge/notion-455a64?style=flat-square&logo=notion&logoColor=white&?logoWidth=40"/> [HI's Notion](https://www.notion.so/PM-93bab4a22fc6437a96b7339216a22cac, "Notion link")  <br>
+
 <img src="https://img.shields.io/badge/gmail-556DB3?style=flat-square&logo=notion&logoColor=white&?logoWidth=40"/> <kenbugless@gmail.com>
 <br/>
 <br/>
