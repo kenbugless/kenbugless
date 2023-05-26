@@ -17,7 +17,6 @@
 ### __Tech Stack__
 <br/>
   <a href="https://docs.soliditylang.org/en" target="_blank" rel="noreferrer"> <img src="https://docs.soliditylang.org/en/v0.8.15/_static/logo.svg" alt="git" height="50"/> </a>
-  <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Svelte_Logo.svg/1702px-Svelte_Logo.svg.png" alt="Svelte" height="50" />
   <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>
   <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>
   <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
@@ -33,9 +32,7 @@
   <br/>
 
 
-
-<img src="https://img.shields.io/badge/notion-455a64?style=flat-square&logo=notion&logoColor=white&?logoWidth=40"/> [HI's Notion] (https://www.notion.so/PM-93bab4a22fc6437a96b7339216a22cac?pvs=4) <br>
-
+<img src="https://img.shields.io/badge/notion-455a64?style=flat-square&logo=notion&logoColor=white&?logoWidth=40"/> [HI's Notion] ([https://www.notion.so/](https://www.notion.so/PM-93bab4a22fc6437a96b7339216a22cac?pvs=4) <br>
   
 <img src="https://img.shields.io/badge/gmail-556DB3?style=flat-square&logo=notion&logoColor=white&?logoWidth=40"/> <kenbugless@gmail.com>
 <br/>
