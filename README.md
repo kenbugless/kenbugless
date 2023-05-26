@@ -33,6 +33,7 @@
 
 
 <img src="https://img.shields.io/badge/notion-455a64?style=flat-square&logo=notion&logoColor=white&?logoWidth=40"/> [HI's Notion](https://www.notion.so/PM-93bab4a22fc6437a96b7339216a22cac?pvs=4, "Notion link")  <br>
+[![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name={insert_name})](https://github.com/loosie/github-readme-tistory-card)
 
 <img src="https://img.shields.io/badge/gmail-556DB3?style=flat-square&logo=notion&logoColor=white&?logoWidth=40"/> <kenbugless@gmail.com>
 <br/>
