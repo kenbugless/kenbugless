@@ -31,8 +31,6 @@
   <br/>
   <br/>
 
-
-//<img src="https://img.shields.io/badge/notion-455a64?style=flat-square&logo=notion&logoColor=white&?logoWidth=40"/> [HI's Notion](https://oxidized-sphynx-29f.notion.site/PM-798ec37e05834fba887be39ca8cb6269?pvs=4)  
 <br>
 <img src="https://img.shields.io/badge/gmail-556DB3?style=flat-square&logo=notion&logoColor=white&?logoWidth=40"/> <kenbugless@gmail.com>
 <br/>
@@ -63,6 +61,9 @@
 
 
 <!-- 🤔 My skill
+
+<img src="https://img.shields.io/badge/notion-455a64?style=flat-square&logo=notion&logoColor=white&?logoWidth=40"/> [HI's Notion](https://oxidized-sphynx-29f.notion.site/PM-798ec37e05834fba887be39ca8cb6269?pvs=4)  
+
 ----------------------
 
 🌱 Programming Language
